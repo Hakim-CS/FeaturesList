@@ -1,0 +1,4 @@
+1. User-friendly interface
+2. Multi-language support
+3. Offline functionality
+4. Fast performance
