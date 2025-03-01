@@ -2,3 +2,4 @@
 2. Multi-language support
 3. Offline functionality
 4. Fast performance
+5. Dark mode support
