@@ -1,5 +1,5 @@
-1. User-friendly interface
+1. Offline functionality
 2. Multi-language support
-3. Offline functionality
+3. User-friendly interface
 4. Fast performance
 5. Dark mode support
